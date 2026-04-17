@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+# Data & Output (Do not track large or generated datasets)
+data/
+outputs/
