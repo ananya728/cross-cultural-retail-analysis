@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cross-Cultural Fashion Retail Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -50,3 +51,7 @@ This will automatically:
 
 ## Final Output
 Check the `outputs/charts/` directory to view insights demonstrating AOV comparison, spending distribution, and price elasticity trends between regions.
+=======
+# cross-cultural-retail-analysis
+End-to-end data analytics pipeline for cross-cultural fashion retail (India vs Japan), analyzing 10K+ transactions. Uses Python (Pandas) for ETL, IQR-based outlier detection, and currency normalization (INR/JPY → USD). Integrates with MySQL and delivers insights via dashboards on AOV, demand, and pricing trends.
+>>>>>>> 117b1dea9ec8501a00e1cea8ee665230098677b6
